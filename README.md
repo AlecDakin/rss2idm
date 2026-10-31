@@ -4,7 +4,7 @@ Show RSS and Atom headlines as a scrolling two-line ticker on an **iDotMatrix 32
 
 `rss2idm.sh` is a single Bash script. Each time it runs it picks the next feed in your list, turns the latest headlines into an animated 32×32 GIF, and uploads it to the display. Run it from cron and the display works through your feeds all day.
 
-![Example output, enlarged six times. The real display is 32×32 pixels.](docs/demo.gif)
+![Example output, enlarged six times. The real display is 32×32 pixels.](demo.gif)
 
 *Example output, enlarged six times, using placeholder headlines. The real display is 32×32 pixels.*
 
@@ -139,4 +139,4 @@ Headlines and icons belong to their respective publishers.
 
 ## Licence
 
-Released under the MIT Licence. See the `LICENSE` file.
+See the `LICENSE` file.
